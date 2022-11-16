@@ -13,10 +13,10 @@
 
 ## 🌐 Connect with me
 
-[<img align="left" alt="website" width="22px" src="https://www.farisalblooki.com" />][website]
-[<img align="left" alt="youtube | YouTube" width="22px" src="https://youtube.com/farisCodes" />][youtube]
-[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://www.linkedin.com/in/farisalblooki/" />][linkedin]
-[<img align="left" alt="instagram | Instagram" width="22px" src="https://www.instagram.com/parisyup" />][instagram]
+[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
