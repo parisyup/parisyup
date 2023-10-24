@@ -3,13 +3,12 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=parisyup.parisyup)
 
 ## 👦 About Me
-- 🎓 I'm a Computer Science student in the University of York
+- 🎓 I am a developer Evangelist for R3
 - ⚛️ I have a deep interest in the field of game development and machine learning
 - ❤️ I love working on software side projects
-- 🔭 I'm currently working on a game development project for my bachelors!
-- 🥅 2022 - 2023 Goals:
-  - Complete my degree and work towards a masters!
-  - finish up all my socials for formal work
+- 🔭 I'm currently working on a game development project and Corda applications
+- 🥅 Goals:
+  - Get established in the work force!
 
 ## 🌐 Connect with me
 
